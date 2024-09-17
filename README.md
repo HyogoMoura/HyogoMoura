@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing at IFPE<br>🌱 I’m currently learning: C#, IoT, Java, Python, Azure all Focused in Data Engineering<br>⚡ Fun fact: Thanos was right!
+🔭 I’m currently studing at IFPE<br>🌱 I’m currently learning: C#, IoT, Java, Python,SQL Azure all Focused in Data Engineering<br>⚡ Fun fact: Thanos was right!
 
 
 ## 🌐 Socials:
