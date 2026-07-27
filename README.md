@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing at IFPE<br>🌱 I’m currently learning: C#, IoT, Java, Python,SQL Azure all Focused in Data Engineering<br>⚡ Fun fact: Thanos was right!
+🎓 Currently pursuing a postgraduate degree in Data Science at IFSP-Scar <br>🌱 Working at Deloitte as a Data Engineer / Analytics Engineer, with experience in SQL, Databricks, Python, BigQuery, PostgreSQL, AWS, dbt, and Informatica.<br>⚡ Fun fact: Thanos was right!
 
 
 ## 🌐 Socials:
